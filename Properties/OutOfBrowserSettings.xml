@@ -1,0 +1,8 @@
+<OutOfBrowserSettings ShortName="Game" EnableGPUAcceleration="False" ShowInstallMenuItem="True">
+  <OutOfBrowserSettings.Blurb>Play on your desktop; at home, at work or on the go.</OutOfBrowserSettings.Blurb>
+  <OutOfBrowserSettings.WindowSettings>
+    <WindowSettings Title="Game" Width="480" Height="640" />
+  </OutOfBrowserSettings.WindowSettings>
+  <OutOfBrowserSettings.Icons>
+  </OutOfBrowserSettings.Icons>
+</OutOfBrowserSettings>
